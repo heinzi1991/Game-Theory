@@ -19,13 +19,15 @@ Then the game begins.
 
 # Future TODO's:
 - The startposition can only have four heaps,
-  TODO: more heaps
+- TODO: more heaps
 
 - The maximum height is 400,
-  TODO: maximum height is unlimited
+- TODO: maximum height is unlimited
 
 - The game can only play on the console,
-  TODO: a GUI for the game
+- TODO: a GUI for the game
+
+- TODO: Clean the code :)
 
 
 
