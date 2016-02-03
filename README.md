@@ -1,6 +1,5 @@
-# Game_Theory
-
-A little Heap Game based on Nimbers
+# Game Theory 
+A little heap game based on Nimbers.
 
 # Description:
 
